@@ -38,7 +38,8 @@ ScottKirvan/ScooterGitTemplate
     <img src="https://img.shields.io/github/license/ScottKirvan/ScooterGitTemplate.svg" alt="license" />
   </a>
   <a href="https://gofiber.io/discord">
-    <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=%F0%9F%92%AC%20discord&color=00ACD7">
+    <!--<img src="https://img.shields.io/discord/704680098577514527?style=flat-square&label=%F0%9F%92%AC%20discord&color=00ACD7">-->
+    <img src="https://img.shields.io/discord/:">
   </a>
 </p>
    
