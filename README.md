@@ -39,7 +39,7 @@ ScottKirvan/ScooterGitTemplate
   </a>
   <a href="https://gofiber.io/discord">
     <!--<img src="https://img.shields.io/discord/704680098577514527?style=flat-square&label=%F0%9F%92%AC%20discord&color=00ACD7">-->
-    <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=%F0%9F%92%AC%20discord&color=00ACD7">xx
+    <img src="https://img.shields.io/discord/1052011377415438346?style=flat-square&label=discord&color=00ACD7">
   </a>
 </p>
    
