@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="assets/logo.jpg" alt="logo" width="200" height="auto" />
+  <img src="notes/images/logo.jpg" alt="logo" width="200" height="auto" />
   <h1>Awesome Readme Template</h1>
   
   <p>
