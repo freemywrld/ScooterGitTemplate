@@ -1,11 +1,3 @@
-<!--
-Hey, thanks for using the awesome-readme-template template.  
-If you have any enhancements, then fork this project and create a pull request 
-or just open an issue with the label "enhancement".
-
-Don't forget to give this project a star for additional support ;)
-Maybe you can mention me or this repo in the acknowledgements too
--->
 <div align="center">
 
   <img src="assets/logo.png" alt="logo" width="200" height="auto" />
@@ -54,10 +46,13 @@ ScottKirvan/ScooterGitTemplate
   </h4>
 </div>
 
-<br />
+**ScooterGitTemplate** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
 
+Credits
+-------
+**Copyright (c) (2023):** [Scott Kirvan](https://github.com/ScottKirvan)  - All rights reserved   
+*ScooterGitTemplate is licensed under the [MIT License](LICENSE.md).*  
 
-# [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)
-
+Project Link:  [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)  
 [CHANGELOG](notes/CHANGELOG.md)  
 [TODO](notes/TODO.md)
