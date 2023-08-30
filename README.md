@@ -1,14 +1,9 @@
 <div align="center">
 
   <img src="notes/images/logo.jpg" alt="logo" width="200" height="auto" />
-  <h1>Awesome Readme Template</h1>
+    <h1><a href="https://github.com/ScottKirvan/ScooterGitTemplate">ScottKirvan/ScooterGitTemplate</a></h1>
+  <h3>Nulla nobis dicta iste minus dolor repellendus aspernatur atque</h3>
   
-  <p>
-    An awesome README template for your projects! 
-  </p>
-  
-  
-ScottKirvan/ScooterGitTemplate
 <!-- Badges -->
 <p>
   <a href="https://github.com/ScottKirvan/ScooterGitTemplate/graphs/contributors">
