@@ -45,7 +45,7 @@
 
 Branches
 --------
-`main` is the deployed branch.  The repo doesn't currently contain any other historic or dev branches.
+`main` is the [deployed](https://www.scottkirvan.com/ScooterGitTemplate/) branch.  The repo doesn't currently contain any other historic or dev branches.
 
 Repo Layout
 -----------
