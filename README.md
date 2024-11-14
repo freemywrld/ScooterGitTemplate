@@ -59,11 +59,13 @@ ScooterGitTemplate
 ```
 This layout and it's associated `_layouts` and `css` folders help support the look of your repo in GitHub Pages (Deployment Workflow). You can see an example of this repo processed using Jekyl and published at [ScottKirvan.com](https://www.scottkirvan.com/ScooterGitTemplate/).  You have to enable **Pages** in your repo's settings.  Details [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
 
+The css file creates a page that is styled similar to GitHub's [Dark High Contrast](https://github.blog/changelog/2021-08-25-dark-high-contrast-theme-ga/) theme.
+
 Contributions / Contact
 -----------------------
-- Please [file an issue](href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/), or grab a fork, hack away, and submit some [pull requests](https://github.com/ScottKirvan/ScooterGitTemplate/pulls).
-- Contact me at linkedin.com/in/scottkirvan/
-- You can also contact me at my discord server, I'm cptvideo.
+- Please [file an issue](https://github.com/ScottKirvan/ScooterGitTemplate/issues/), or grab a fork, hack away, and submit some [pull requests](https://github.com/ScottKirvan/ScooterGitTemplate/pulls).
+- Contact me at [linkedin.com/in/scottkirvan/](https://www.linkedin.com/in/scottkirvan/)
+- You can also contact me at my [discord](https://discord.gg/TSKHvVFYxB) server, I'm cptvideo.
 
 Credits
 -------
