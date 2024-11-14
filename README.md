@@ -43,9 +43,22 @@
 
 **ScooterGitTemplate** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
 
+Repo Layout
+-----------
+```
+ScooterGitTemplate
+├───assets
+│   ├───css
+│   └───media
+├───notes
+└───_layouts
+```
+This layout and it's associated `_layouts` and `css` folders help support the look of GitHub Pages (websites).  You can see an example of this repo processed using Jekyl and published at https://www.scottkirvan.com/ScooterGitTemplate/
+
+
 Credits
 -------
-**Copyright (c) (2023):** [Scott Kirvan](https://github.com/ScottKirvan)  - All rights reserved   
+**Copyright (c) (2024):** [Scott Kirvan](https://github.com/ScottKirvan)  - All rights reserved   
 *ScooterGitTemplate is licensed under the [MIT License](LICENSE.md).*  
 
 Project Link:  [ScooterGitTemplate](https://github.com/ScottKirvan/ScooterGitTemplate)  
