@@ -43,6 +43,10 @@
 
 **ScooterGitTemplate** is voluptatibus magni nemo est. Nulla nobis dicta iste minus dolor repellendus aspernatur atque. Earum expedita aut inventore tempora fugiat deleniti. Molestias minima nam expedita beatae totam ipsa reprehenderit animi. Occaecati quibusdam beatae ducimus voluptate ut doloribus vitae amet. Quia ut ut voluptate dignissimos adipisci dolorum rem.
 
+Branches
+--------
+`main` is the deployed branch.  The repo doesn't currently contain any other historic or dev branches.
+
 Repo Layout
 -----------
 ```
@@ -53,8 +57,13 @@ ScooterGitTemplate
 ├───notes
 └───_layouts
 ```
-This layout and it's associated `_layouts` and `css` folders help support the look of GitHub Pages (websites).  You can see an example of this repo processed using Jekyl and published at https://www.scottkirvan.com/ScooterGitTemplate/
+This layout and it's associated `_layouts` and `css` folders help support the look of your repo in GitHub Pages (Deployment Workflow). You can see an example of this repo processed using Jekyl and published at [ScottKirvan.com](https://www.scottkirvan.com/ScooterGitTemplate/).  You have to enable **Pages** in your repo's settings.  Details [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
 
+Contributions / Contact
+-----------------------
+- Please [file an issue](href="https://github.com/ScottKirvan/ScooterGitTemplate/issues/), or grab a fork, hack away, and submit some [pull requests](https://github.com/ScottKirvan/ScooterGitTemplate/pulls).
+- Contact me at linkedin.com/in/scottkirvan/
+- You can also contact me at my discord server, I'm cptvideo.
 
 Credits
 -------
