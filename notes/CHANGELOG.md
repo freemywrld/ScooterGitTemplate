@@ -6,11 +6,6 @@
 
 ## 1.0.0 (2024-12-13)
 
-
-### ⚠ BREAKING CHANGES
-
-* adding support for ReleasePlease github action
-
 ### Features
 
 * adding support for ReleasePlease github action ([cc3fe28](https://github.com/ScottKirvan/ScooterGitTemplate/commit/cc3fe28c3b9526edfe91da2f562cd855bc34c02a))
@@ -20,21 +15,4 @@
 
 * lots of good updates to readme and project settings ([30a0086](https://github.com/ScottKirvan/ScooterGitTemplate/commit/30a00860cf73c2297f2ff39025a5f1f6e9d5d82c))
 
-## [2.0.0](https://github.com/ScottKirvan/ScooterGitTemplate/compare/v1.0.0...v2.0.0) (2024-12-13)
 
-
-### ⚠ BREAKING CHANGES
-
-* adding support for ReleasePlease github action
-
-### Features
-
-* adding support for ReleasePlease github action ([cc3fe28](https://github.com/ScottKirvan/ScooterGitTemplate/commit/cc3fe28c3b9526edfe91da2f562cd855bc34c02a))
-
-## [1.2.14](https://github.com/ScottKirvan/ReleasePleaseTest/compare/v1.2.13...v1.2.14) (2024-12-13)
-
-
-### Bug Fixes
-
-* change where my version info gets written ([75d58cb](https://github.com/ScottKirvan/ReleasePleaseTest/commit/75d58cb57ec461a179962bd2d29c115675b881a6))
-* triggering a release ([dbe3ba9](https://github.com/ScottKirvan/ReleasePleaseTest/commit/dbe3ba949ddcd18d1584099d9f56963b1da10404))
