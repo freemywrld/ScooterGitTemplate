@@ -52,6 +52,7 @@ Branches
 Repo Layout
 -----------
 ```
+<pre class="code">
 ScooterGitTemplate
 ├───_layouts
 ├───.github
@@ -61,6 +62,7 @@ ScooterGitTemplate
 │   ├───css
 │   └───media
 └───notes
+</pre>
 ```
 The `_layouts` and `assets/css` folders help support the look of the repo when rended to GitHub Pages (Deployment Workflow). 
 You can see an example of this repo processed using Jekyll and published at [ScottKirvan.com](https://www.scottkirvan.com/ScooterGitTemplate/).  You have to enable **Pages** in your repo's settings.  Details [here](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll).
