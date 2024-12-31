@@ -195,6 +195,7 @@ img {
     border-style: none;
     overflow-clip-margin: content-box;
     overflow: clip;
+    padding: 10px;
 }
 
 ul {}
@@ -250,6 +251,6 @@ table {}
         font-size: 13px;
     }
     img {
-        padding: 5px;
+        padding: 10px;
     }
 }
