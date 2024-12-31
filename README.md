@@ -1,4 +1,3 @@
-Hello!
 <div align="center">
 
   <img src="assets/media/logo.jpg" alt="logo" width="200" height="auto" />
