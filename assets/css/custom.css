@@ -249,4 +249,7 @@ table {}
     h6 {
         font-size: 13px;
     }
+    img {
+        padding: 5px;
+    }
 }
