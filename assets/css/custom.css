@@ -37,6 +37,19 @@ body {
     padding-top: 16px;
 }
 
+.language-plaintext.highlighter-rouge {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    white-space: break-saces;
+    background-color: rgba(158, 167, 179, 0.4);
+    border-radius: 6px;
+    font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;
+    box-sizing: border-box;
+    line-height: 1.5;
+    word-wrap: break-word;
+}
+
 .footer {
     margin-top: 40px;
     padding-bottom: 8px;
@@ -167,7 +180,7 @@ h6 {
     text-size-adjust: 100%;
 }
 
-.code {
+code {
     padding: 0.2em 0.4em;
     margin: 0;
     font-size: 85%;
